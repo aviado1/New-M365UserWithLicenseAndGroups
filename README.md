@@ -102,7 +102,7 @@ Here are some commonly used Microsoft 365 licenses:
 
 ## ✍️ Author & License
 
-Created by **YourNameHere**  
+Script Author: [aviado1](https://github.com/aviado1)
 MIT License – feel free to fork, reuse, and improve.
 
 ---
